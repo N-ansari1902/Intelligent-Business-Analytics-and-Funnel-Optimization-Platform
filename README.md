@@ -1,6 +1,6 @@
 # Intelligent Business Analytics & Funnel Optimization Platform
 
-### [🚀 View Live Demonstration](https://build-by-ayush-intelligent-business-analytics-and-fu-app-ndnyxy.streamlit.app/)
+### [🚀 View Live Demonstration](https://e-analytics-platform.streamlit.app/)
 
 ## 🌟 Project Overview
 This platform is a comprehensive **Decision Intelligence System** designed to move businesses from simple reporting to active diagnostics. While standard dashboards typically show only outcomes, this system analyzes the entire customer journey to identify where value is created and where it is lost.
